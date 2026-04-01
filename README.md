@@ -8,7 +8,7 @@
 
 𔓘Oie! Eu sou a Bianca, ou Bea, técnica em Informática que ama codar & ama um bom café.
 
-📂˖˳·˖ ⋆🌷͙⋆ ִֶָ˖·˳˖𓂃 ִֶָMe identifico muito com a área Full-Stack, embora tenha uma paixão Back-Ending e o sonho de vir a se tornar Engenheira de Software!
+📂˖˳·˖ ⋆🌷͙⋆ ִֶָ˖·˳˖𓂃 ִֶָMe identifico muito com a área Full-Stack, embora tenha uma paixão por Back-Ending e o sonho de vir a se tornar Engenheira de Software!
 
 𖹭 Atualmente estou estudando Análise De Sistemas, Python, SQL e CSS
 
@@ -30,8 +30,10 @@ Essas são as ferramentas que eu estou utilizando atualmente!
 <h2>Linguagens De Programação </h2>
              <img aling="center" alt="bea-html" height="40px" width="40px"
                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-            <img align="center" alt="bea-css" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-            <img alt="bea-python" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+            <img align="center" alt="bea-css" height="40px" width="40px" 
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+            <img alt="bea-python" height="40px" width="40px" 
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 <h2>Banco De Dados</h2>
             <img align="center" alt="bea-sql" height="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
