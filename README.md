@@ -14,7 +14,7 @@
 
 ·+˚🖇️✩+˚🎧⊹♡ Sempre busco aprender mais e me aperfeiçoar naquilo que já conheço — Como inglês e italiano, ou a própria programação.
 
-𖦹 Fora ao mundo Tech, sou uma leitora de assídua de múltiplos gêneros, e também uma gamer com foco em história desde sobrevivente a Raccoon City em RE a uma viajante do tempo em LIS<3
+𖦹 Fora ao mundo Tech, sou uma leitora assídua de múltiplos gêneros, e também uma gamer com foco em história desde sobrevivente a Raccoon City em RE a uma viajante do tempo em LIS<3
 
 ִֶָ. ..𓂃 ࣪ ִֶָ🦋་༘࿐Sou comunicativa, com facilidade em aprender e foco na área!
 ##
